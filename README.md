@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ume Habiba</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer</h3>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Https-habiba/Https-habiba/main/hijabi-laptop.png" width="270" />
+</p>
+
 
 - 🌱 I’m currently learning **Advanced Machine Learning, AI Systems, and Data Engineering**
 
