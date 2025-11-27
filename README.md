@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Https-habiba/Https-habiba/main/hijabi-laptop.png" width="270" />
+  <img src="https://raw.githubusercontent.com/Https-habiba/Https-habiba/main/8c3dd3387e12a81ce0f51065271e8050.jpg" width="270" />
 </p>
 
 
